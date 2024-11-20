@@ -12,6 +12,8 @@ SDG Integration
 
 Instructions
 
+Acknowledgement
+
 ## Overview
 
 -The Massage Reservation System is a user-friendly platform that allows customers to book massages conveniently. It streamlines the reservation process for both customers and business owners, providing features like online booking, service selection, and appointment management.
@@ -54,6 +56,63 @@ Polymorphism is partially demonstrated through method overloading in a broader s
 The Reservation class has methods like to_dict() for JSON serialization and display_details() for user-friendly display. Both methods handle the same object (Reservation) but serve different purposes.
 Similarly, methods like add_reservation in ReservationSystem work differently depending on the room and reservation details.
 
-## SDG Integrtion
+## SDG Integration
 
-![image]()
+![image](https://github.com/kobebryan31/RELAXinMASSAGE/blob/main/Images/SDG%203%20Good%20Health%20and%20Well-Being.jpg)
+
+Sustainable Development Goal 3 (SDG 3) is part of the United Nations' 2030 Agenda for Sustainable Development. Its main focus is to "ensure healthy lives and promote well-being for all at all ages." This goal emphasizes access to quality healthcare, promotion of mental and physical well-being, and the reduction of illnesses and preventable deaths.
+
+###### Why This Project Integrates SDG 3
+This project aligns with SDG 3: Good Health and Well-Being because it creates a structured and accessible system for managing therapeutic services, ensuring that individuals can prioritize their health in a convenient and effective way. Massage therapy is not just about relaxation; it also plays a role in preventive health by improving circulation, reducing muscle tension, and enhancing sleep quality.
+
+## Instructions
+
+### Interact with the System:
+
+##### Follow the menu options displayed on the screen:
+
+1: Make a Reservation - Choose a massage service, input customer details, and confirm the reservation.
+
+2: View All Reservations - View a list of all existing reservations.
+
+3: Exit - Close the program.
+
+#### Persistent Reservations:
+
+All reservations are saved in the reservations.json file in the program's directory.
+When you restart the program, it will load the saved reservations automatically.
+
+#### Editing the JSON File (Optional):
+
+You can manually view or edit the reservations.json file using any text editor if needed. Ensure the JSON format remains valid.
+
+##### Example Workflow:
+
+##### Launch the program
+
+###### Choose 1: Make a Reservation.
+
+Select a massage type.
+
+Enter customer details (name, email, address, contact number).
+
+Provide a valid reservation date and time (example: 2024-11-11 7:30).
+
+Review the confirmation message with therapist details.
+
+###### Choose 2: View All Reservations to see all bookings.
+
+###### Choose 3: Exit to quit the program.
+
+## Acknowledgment
+I would like to express my heartfelt gratitude to the following individuals and institutions for their invaluable support and guidance throughout the completion of this project:
+
+Batangas State University: For providing me with an excellent education and a platform to develop my skills and knowledge. The university has been instrumental in shaping my growth as a learner and a professional.
+
+Ma'am Fatima Marie P. Agadon: My dedicated instructor, whose unwavering guidance, constructive feedback, and encouragement have been crucial in the successful development of this project. Thank you for your patience, expertise, and inspiration.
+
+My Family: For their unconditional love, support, and understanding. Their encouragement and belief in my abilities have been my driving force to excel and complete this undertaking.
+
+My Girlfriend: For her love, support, understanding, encouragement and belief in my abilities.
+
+The Almighty God: For His infinite wisdom, strength, and blessings. It is through His grace and guidance that I was able to overcome challenges and achieve this success.
