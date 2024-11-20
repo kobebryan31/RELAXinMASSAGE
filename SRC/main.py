@@ -144,7 +144,7 @@ class ReservationSystem:
 
     def menu(self):
         while True:
-            print("Massage Reservation System")
+            print("---Massage Reservation---")
             print("1. Make a Reservation")
             print("2. View All Reservations")
             print("3. Exit")
