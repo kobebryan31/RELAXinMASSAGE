@@ -1,6 +1,8 @@
-# Massage Reservation Management System
+# <div align="center">Massage Reservation Management System</div>
 
-![image](https://github.com/kobebryan31/RELAXinMASSAGE/blob/main/Images/LOGO.jpg)
+<div align="center">
+  <img src="https://github.com/kobebryan31/RELAXinMASSAGE/blob/main/Images/LOGO.jpg" alt="Logo" />
+</div>
 
 ## Table of Contents
 
@@ -20,7 +22,9 @@ Acknowledgement
 
 ## Concepts Explanation
 
-![image](https://github.com/kobebryan31/RELAXinMASSAGE/blob/main/Images/OOP%20Principles.png)
+<div align="center">
+  <img src="https://github.com/kobebryan31/RELAXinMASSAGE/blob/main/Images/OOP%20Principles.png" alt="OOP" />
+</div>
 
 ### 1. Encapsulation
 Encapsulation involves bundling data and methods that operate on that data within a single unit (class). It also restricts direct access to some components, providing controlled interfaces for interaction.
