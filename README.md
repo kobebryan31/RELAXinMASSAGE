@@ -158,7 +158,7 @@ Review the confirmation message with therapist details.
 
 **Batangas State University:** For providing me with an excellent education and a platform to develop my skills and knowledge. The university has been instrumental in shaping my growth as a learner and a professional.
 
-**Ma'am Fatima Marie P. Agadon:** My dedicated instructor, whose unwavering guidance, constructive feedback, and encouragement have been crucial in the successful development of this project. Thank you for your patience, expertise, and inspiration.
+**Ma'am Fatima Marie P. Agdon:** My dedicated instructor, whose unwavering guidance, constructive feedback, and encouragement have been crucial in the successful development of this project. Thank you for your patience, expertise, and inspiration.
 
 **My Family:** For their unconditional love, support, and understanding. Their encouragement and belief in my abilities have been my driving force to excel and complete this undertaking.
 
